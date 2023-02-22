@@ -22,3 +22,11 @@ p39
 p41
 - A theory - a theory is an incomplete idea, but it takes what (little data) we have and makes some kind of sense of it in an overly simple way.
 - `talent * effort = skill --> skill * effort = achievement` 
+- "effort makes skill productive"
+
+p44
+- MacKenzie the potter produced more and more pots in a day `talent * effort = skill`. Only some out of the ones he produced were good ones.
+- MacKenzie the potter over time produced more good pots in a day `skill * effort = achievement`
+
+p45
+- John Irving the author spends more time re-reading and re-writing his own work in order to perfect it.
