@@ -30,3 +30,23 @@ p44
 
 p45
 - John Irving the author spends more time re-reading and re-writing his own work in order to perfect it.
+
+p47 
+- Runtime on a treadmill is a surprising predictor of psychological adjustment throughout adulthood according to a harvard test conducted of a series of decades.
+- effort keeps you on the treadmill longer, not physical fitness
+
+p49
+- staying on the treadmill the longest is certainly a feat.
+- The true indicator of grit is going back to the treadmill eager to try again the next day.
+
+p50
+- if the formula at the top of chapter 3 is correct:
+- someone who is twice as talented but half as hardworking as another person might reach the same level of skill but still produce dramatically less over time.
+- Strivers improve in skill and quantity of that skill.
+
+p51
+- with effort talent becomes skill
+- effort makes skill into something productive
+
+# Chapter 4
+## How gritty are you?
