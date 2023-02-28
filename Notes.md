@@ -86,3 +86,7 @@ p55
 p56
 
 - grit has two components passion and perserverence
+
+p59 - 60
+
+- Passion is a compass - look at the example of Jeff Gettlemen pulitzer prize winning journalist who never really knew exactly what he wanted, dispite being a great student (attending oxford university), a great photographer and a great writer. However his passion worked like a compass. Eventually because he kept tinkering and building on what he had already learned it lead him to his ultimate role as journalist and African Bureau chief for the New York Times.
