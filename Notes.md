@@ -50,3 +50,9 @@ p51
 
 # Chapter 4
 ## How gritty are you?
+
+p54 
+- "grit isn't just working hard, that's only part of it. there are no shortcuts to excellence."
+- grit is about staying with something that you're willing to be loyal to it for a very long time.
+
+p55
