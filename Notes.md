@@ -90,3 +90,37 @@ p56
 p59 - 60
 
 - Passion is a compass - look at the example of Jeff Gettlemen pulitzer prize winning journalist who never really knew exactly what he wanted, dispite being a great student (attending oxford university), a great photographer and a great writer. However his passion worked like a compass. Eventually because he kept tinkering and building on what he had already learned it lead him to his ultimate role as journalist and African Bureau chief for the New York Times.
+
+p61
+
+- do you have a life philosophy? ie "This is what I want" Some people have no problem answering this.
+- Pete Carroll, head coach of the Seahawks realized he didn't have a life philosophy after being between coaching jobs.
+- his? "Do things better than they have been done before"
+
+p62 - p63
+
+- John Wooden (legendary UCLA basketball coach) said that "figuring out the overarching vision is of the utmost importance"
+- Envision goals in a hierarchy:
+
+_goal hierarchy:_
+
+```
+                Goal                 Top Level - 'The ultimate concern' - Even more abstract and more important.
+                 |
+        Goal_____|_____Goal          Mid Level - More abstract, more important
+        |                |
+  Goal__|__Goal    Goal__|__Goal     Low Level - Most concrete and specific goals. Merely a means to an ends
+```
+
+p63
+
+- Make everyday choices based around you singular goal or ultimate concern.
+- Hall of fame baseball pitcher, Tom Seaver, restructured many very basic aspects of his life (petting dogs with non pitching hand, using non pitching hand in trivially harmful situations, shaping his diet to be more healthy ect) all in order to be a better baseball pitcher.
+
+p64
+
+- _Positive Fantisizing_ is when you have an ultimate concern, but you cannot formulate the smaller goals that get you on the track to reaching that ultimate concern.
+- indulging in these fantasies without considering the obstacles are in the way has short term payoffs but long term costs.
+- in the short term, not meeting or considering the obstacles will make someone feel good about their aspirations but regret and dissabpointment later in life when they have failed to reach their goals.
+- _Goal conflict_ is when there are multiple competing concerns. This makes it harder to achieve the larger vision of each goal.
+- having some competing goals is necessary. For instance there may be a goal hierarchy for being a parent and a professional goal hierarchy.
