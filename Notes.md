@@ -119,8 +119,39 @@ p63
 
 p64
 
-- _Positive Fantisizing_ is when you have an ultimate concern, but you cannot formulate the smaller goals that get you on the track to reaching that ultimate concern.
+- _Positive Fantasizing_ is when you have an ultimate concern, but you cannot formulate the smaller goals that get you on the track to reaching that ultimate concern.
 - indulging in these fantasies without considering the obstacles are in the way has short term payoffs but long term costs.
-- in the short term, not meeting or considering the obstacles will make someone feel good about their aspirations but regret and dissabpointment later in life when they have failed to reach their goals.
+- in the short term, not meeting or considering the obstacles will make someone feel good about their aspirations but regret and disappointment later in life when they have failed to reach their goals.
 - _Goal conflict_ is when there are multiple competing concerns. This makes it harder to achieve the larger vision of each goal.
 - having some competing goals is necessary. For instance there may be a goal hierarchy for being a parent and a professional goal hierarchy.
+
+p66
+
+- Warren Buffett asks his pilot, "don't you have bigger goals than just to fly him around to where he needs to go?"
+- Buffett's tip:
+  - write down a list of 25 career goals
+  - do some soul searching
+  - circle only five of them - the highest priority goals
+  - avoid the others at all cost. They are the distractions
+- like below:
+
+| name of goal   | level of importance (scale from 1-10) | circled? |
+| -------------- | ------------------------------------- | -------- |
+| cabinet system | 8                                     | X        |
+
+- if the goals are interrelated, it may not be feasible to circle only five.
+- if you have to divide your time between different career goals then you will be in conflict.
+- There needs to be one internal compass leading you
+
+p67
+
+- Angela Duckworth adds a step to Buffett's tip: _Ask yourself to what extend do the goals serve a common purpose?_
+
+p74
+
+- Bob Mankoff new yorker cartoonist made getting rejected a sport and faced year over year rejections before finally getting his cartoons published.
+
+p75
+
+- IQ doesn't seem to matter so much when determining the most from the least accomplished people.
+- in other words in terms of IQ Sir Isaac Newton was indistinguishable from other lesser known geniuses that accomplished nothing exceedingly memorable.
