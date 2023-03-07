@@ -155,3 +155,49 @@ p75
 
 - IQ doesn't seem to matter so much when determining the most from the least accomplished people.
 - in other words in terms of IQ Sir Isaac Newton was indistinguishable from other lesser known geniuses that accomplished nothing exceedingly memorable.
+
+# chapter 5
+
+## Grit Grows
+
+p79
+
+- is grit more like your height (genetic) or more like the language you speak (learned from experience)?
+
+p80
+
+- (from above) just like most traits, it's a bit of both.
+
+p84
+
+- the previous pages 80 - 83 mostly illustrate how advancement is a function of environmental advancement and nurture. and gives several examples of generational changes that have occured for the better
+- Flynn, an academic psychologist calls the "virtuous cycle of skill improvement the social multiplier effect"
+- "Small environmental differences or genetic ones can trigger a virtuous cycle"
+
+p85
+
+- so far according to data, previous generations like the greatest generation look to be grittier than todays younger generations.
+
+p86
+
+- it's possible that the generational data showing older people being grittier has more to do with age than with what generation you're from.
+- "the maturity principle" - in short we grow up (most of us)
+-
+
+p87
+
+- being a promising beginner is fun, but being an actual expert is more gratifying.
+- we change when we need to. necessity is the mother of invention and adaptation.
+
+p88 - 89
+
+- "the maturity principle"
+- going from diapers to potty training instantaneously (almost). Angela Duckworth's daughter refused to go in the potty until all her classmates in the next grade were (age three)
+- Bernie Noe of Lakeside school (in Seattle) daughter was perpetually late for everything until she got her first job, and the manager told her that if she was ever late she would be fired on the spot.
+- "lectures don't have the same effect as consequences"
+
+p89
+
+- two truths (probably):
+- people do get grittier as the age
+- people from other generations may have had to have been more gritty.
