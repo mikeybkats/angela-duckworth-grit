@@ -201,3 +201,53 @@ p89
 - two truths (probably):
 - people do get grittier as the age
 - people from other generations may have had to have been more gritty.
+
+p89-90
+
+- how does grit grow in a person?
+- the best place to start is to look at where you are now and ask yourself why
+- the higher the level of goal the more you will stick with it if you are a true paragon of grit
+
+p91 - 92
+
+- There are some psychological assets / aspects to having grit:
+  - interest - you must be totally absorbed by the goal
+  - practice - do "it" everyday and focus on re-evaluating and improving day in and day out
+  - purpose - purpose makes your interest into a passion
+  - hope - perseverance that sticks with you along the way
+- the above are all learned traits - that is not exclusively born into.
+
+---
+
+# Part II: Growing grit from inside out
+
+---
+
+# Chapter 6
+
+## Interest
+
+p95-97
+
+- do you do what you love? or what is practical?
+- people are more satisfied when they do something that matches their personal interests.
+- people perform better when they do something they enjoy
+-
+
+p99
+
+- matching your job to what captures your attention is a good idea
+
+p100
+
+- not everyone will take a bite of their proverbial sole meuniére and wake up to their passion like Julia Child did.
+- Julia admits in her biography that after that meal there was a series of other experiences that played a role in her journey.
+- it took Julia 40 years to find her true passion
+- Indeed, it can take years to find a passion according to many grit paragons
+-
+
+p102
+
+- There is a mythology that a passion comes sudden and swift - career, love or otherwise.
+- According to Barry Schwartz of Swarthmore college, exhilarations of a particular subject often only come when sticking with it for the long haul. Only then do the subtleties and nuances start to become truly interesting.
+- Meeting a potential match (a promising one) is just the very beginning.
