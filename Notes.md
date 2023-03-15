@@ -17,10 +17,10 @@ p38
 p39
 
 - Nietzsche - "with everything perfect, we do not ask how it came to be"
-- Nietzsche - "Our vanity, our self love, promotes the cult of genious"
-- By calling someone genius is to call them beyond human, something magical. Unexplainable. Doing this puts us in a mode where we become incapable of comparing ourselves with the magical person (we will always see ourselves as being inadequate in comparrison).
-- The above is a mythologizing of talent that lets us foregive our own lack of greatness rather than try to achieve the something greater.
-- Nietsche implores us all to become craftsmen and acquire genius through seriousness of workmanship
+- Nietzsche - "Our vanity, our self love, promotes the cult of genius"
+- By calling someone genius is to call them beyond human, something magical. Unexplainable. Doing this puts us in a mode where we become incapable of comparing ourselves with the magical person (we will always see ourselves as being inadequate in comparison).
+- The above is a mythologizing of talent that lets us forgive our own lack of greatness rather than try to achieve the something greater.
+- Nietzsche implores us all to become craftsmen and acquire genius through seriousness of workmanship
 -
 
 p41
@@ -251,3 +251,41 @@ p102
 - There is a mythology that a passion comes sudden and swift - career, love or otherwise.
 - According to Barry Schwartz of Swarthmore college, exhilarations of a particular subject often only come when sticking with it for the long haul. Only then do the subtleties and nuances start to become truly interesting.
 - Meeting a potential match (a promising one) is just the very beginning.
+
+p103
+
+- we don't know much about the psychology of interest.
+- why is one subject interesting to one person and not so to another?
+- "passion for your work is a little bit discovery"
+
+p104
+
+- interests can't be forced onto yourself
+- According to Jeff Bezos it's a mistake that people often make.
+- interests come only through interaction with the outside world
+-
+
+p106
+
+- people often "stink" at the things they're interested in.
+- however, they usually "stink" more at things they are not interested in.
+
+p107
+
+- even the most accomplished top level people start out as unserious beginners.
+- one of the keys to nurturing an interest is an early mentor who makes the activity fun - like a game
+- the flame of interest can be smothered by overbearing parents.
+
+p108
+
+- experts and beginners have different motivational needs
+- at the start beginners need encouragement and freedom
+
+p110 - 112
+
+- cute stories about how Jeff Bezos' mother nurtured his curiosity and inventiveness without freaking out.
+
+p112
+
+- "short termers" are people that don't ever settle down in a single career path often switching jobs every three to five years.
+- paragons of grit learn to deepen their interest in something as time goes by
