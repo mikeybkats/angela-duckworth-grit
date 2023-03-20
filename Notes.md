@@ -289,3 +289,33 @@ p112
 
 - "short termers" are people that don't ever settle down in a single career path often switching jobs every three to five years.
 - paragons of grit learn to deepen their interest in something as time goes by
+
+p112-113
+
+- humans have a base need to learn and grow starting from the time we are babies
+- why then does grit exist at all? once something is learned why do we desire to get better at it and invest more time into it?
+- why is it so normal to say something like "the more i know, the less i understand?"
+- Paul Silvia, a leading authority on the emotion of interest, says that "novelty for the beginner comes in one form, and novelty for the expert comes in another"
+- modern or abstract art may all look the same to a non expert, but to an expert has enourmous understanding and sensitivity that the rest of us don't have.
+
+p113
+
+- How do you foster an interest if you don't have one? Ask these questions:
+  - what do I like to think about?
+  - where does my mind wander?
+  - what do I really care about?
+  - how do I enjoy spending my time?
+  - what do I find unbearable?
+- How to solve a crossword puzzle:
+  - begin with the answers you're the surest of and build from there
+  - don't be afraid to guess
+  - don't be afraid to erase an answer that's not working
+- If you already know what you like, then the next phase is _development_
+
+p114
+
+- The development of interests takes time. Interests must be engaged with over and over again for the interest to develop
+
+# Chapter 7
+
+## Practice
