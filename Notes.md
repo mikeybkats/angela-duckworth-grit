@@ -319,3 +319,39 @@ p114
 # Chapter 7
 
 ## Practice
+
+p118
+
+- Some people get twenty years of experience... others get one year of experience twenty times.
+- _kaizen_ is Japanese for resisting arrested development. it's the same as continuous improvement.
+- a big part of _kaizen_ is a non complacence with the status quo. The desire to look forward and wanting to grow.
+- _quality of time_ means that the time on task is better time on task. Efficiency.
+-
+
+p119
+
+- as you get better at something your rate of improvement slows.
+-
+
+p120
+
+- it takes 10 years or 10,000 hours to get good at something and be an expert
+- but, it takes 10 years along with deliberate practice to actually get to the expert level
+-
+
+p121
+
+- _Deliberate Practice: How to practice_
+  - set a target that is measurable and beyond the typical result
+  - narrow the practice to a focus an area of weakness
+  - practice until the stretch goal is reached
+  - take notice of the parts of the practice that were done wrong so they can be recognized and fixed in later practices
+  - make a new stretch goal and start again
+
+p123
+
+- Benjamin Franklin practiced and drilled himself repeatedly to become a better writer. He took his favorite essays and writings and put them in his desk drawer. Then wrote and rewrote the essays from memory and compared them to the originals. He corrected and took note of any mistakes. Then he did it over again. He also practiced by translating poetry into prose and back to poetry again.
+
+p124
+
+- _Deliberate practice_ helps shine a light on the things you think you know but don't actually know.
