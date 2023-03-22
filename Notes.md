@@ -449,7 +449,7 @@ p149
   - The third, pauses, looks up to the sky and back again to the many and says, "I'm building a house of God"
 - which of the three bricklayers are you? Is it a _job_, _a career_ or _a calling_?
 
-p150
+p150 - 152
 
 - people who have a purpose are more likely to be gritty. People that don't have a purpose are likely not going to be paragons of grit.
 - most people don't have a purpose
