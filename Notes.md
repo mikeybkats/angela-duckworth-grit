@@ -355,3 +355,47 @@ p123
 p124
 
 - _Deliberate practice_ helps shine a light on the things you think you know but don't actually know.
+
+p126 - p127
+
+- when improving a skill, deliberate practice has no rival
+- when it comes to feeling though, deliberate practice is painful and not enjoyable.
+- Some professional atheletes even describe deliberate practice as extremely intense terms.
+  - "complete frustrations"
+  - "little deaths"
+
+p129
+
+- the other side of deliberate practice is a state called "flow"
+- flow is when you work within your defined boundaries of excellence, it feels as if it happens almost automatically to the practitioner. (Think figure skater or orator or musician going through their performance)
+
+p133
+
+- grittier people have the quality of not just enduring deliberate practice more, but actually enjoy deliberate practice more than other people.
+- somewhere along the way they learned to not be put down by the pain and enjoy the little wins of deliberate practice
+
+p135
+
+- top performers remind us that deliberate practice need not be so painful, and also that a more true pain is repeating the cycle of making the same mistakes over and over again without ever improving. (I agree)
+
+p136
+
+- grittier spellers who logged more hours (from the spelling bee data group) said that deliberate practice was both more effortful and more enjoyable
+
+p138
+
+- you can be super motivated and hardworking and not be doing deliberate practice. it's easy to not see it sometimes while practicing
+
+p139
+
+- in order to do grittier practices, focus on establishing the routines.
+- Do the practice at the same time, in the same place, in the same deliberate way.
+
+p140
+
+- to get the most out of deliberate practice change the way you experience it.
+- embrace the challenge rather than fear it
+
+p141
+
+- children learn from a young age about shame, fear, and embarresment. They are learned behaviors that parents instill in their children when they make mistakes.
