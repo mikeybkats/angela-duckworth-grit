@@ -399,3 +399,60 @@ p140
 p141
 
 - children learn from a young age about shame, fear, and embarresment. They are learned behaviors that parents instill in their children when they make mistakes.
+
+# Chapter 8
+
+## Purpose
+
+p143 - 144
+
+- sources of passion:
+  - interest
+  - purpose
+- both are at the core of the behaviors of gritty people
+- three phase progression of passion:
+  1. start out with a self oriented interest
+  1. learn self disciplined practice
+  1. integrate the work with an other centered purpose
+
+p144
+
+- Psyhologist Benjamin Bloom's research into world class professionals resulted in three periods in their journey of expertise:
+  1. early years - Chapter 6
+  1. middle years - Chapter 7
+  1. later years - Chapter 8
+
+p145 - 146
+
+- At the core, purpose for paragons of grit comes down to the belief that what they do matters to other people beyond themselves.
+- According to Angela Duckworth, to grit paragons _purpose_ means the intention to contribute to the well being of others
+- Aristotle categorized the pursuit of happiness into two categories:
+  1. _eudaimonic_ - in step with the inner good spirit
+  1. _hedonic_ - in step with the self-centered enjoyment
+
+p147
+
+- we have evolved so that both self centered behaviors and the desire to seek meaning drive us all to survive.
+- in other words, pleasure and purpose go hand in hand, and grity people are the same in terms of pleasure and purpose as anyone else.
+
+p148
+
+- for most people purpose is a powerful motivator
+
+p149
+
+- some people like Hitler or Stalin may have believed what they were doing was for the benefit of the majority and therefore for the greater good
+- there are gritty villains, but there are more gritty heros than gritty villains
+- The parable of bricklayers (always loved this one). The bricklayers are asked what they are doing
+  - The first bicklayer says "I'm laying bricks"
+  - The second says, "I'm building a church"
+  - The third, pauses, looks up to the sky and back again to the many and says, "I'm building a house of God"
+- which of the three bricklayers are you? Is it a _job_, _a career_ or _a calling_?
+
+p150
+
+- people who have a purpose are more likely to be gritty. People that don't have a purpose are likely not going to be paragons of grit.
+- most people don't have a purpose
+- many people are looking for a purpose
+- that that have found a purpose are the rarity.
+- purpose (the believe that you are doing important work) will keep you happier in your work even if it's unglamorous or lower pay
