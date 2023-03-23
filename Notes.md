@@ -456,3 +456,30 @@ p150 - 152
 - many people are looking for a purpose
 - that that have found a purpose are the rarity.
 - purpose (the believe that you are doing important work) will keep you happier in your work even if it's unglamorous or lower pay
+
+p153
+
+- one mistake commonly made when looking for purpose is that people tend to search for their calling rather than deepen their interest to develop their calling
+- the Bricklayer who says that they are just "laying bricks" one day will become the bricklayer who says, "I am building a house of God"
+
+p154
+
+- Michael Baime a doctor at Upenn didn't really want to become a doctor. He didn't feel like it was his calling. His true passion was meditation. Eventually, after years of pracicing medicine (and enjoying the help he was providing to people) started teaching his fellow doctors and nurses and patients about meditation. This was his calling.
+
+p159
+
+- self oriented and other oriented motivations are not opposites. They are independent entities. You can have both, either or neither. You can be a business tycoon and driven to help others.
+
+p160
+
+- people that have prosocial and personal goals intertwined are more successful
+
+p162
+
+- "a beyond the self" orientation can be deliberately cultivated.
+- According to Standford Psychologist Bill Damon, purpose is the answer the the why question: What am I doing this?
+- Origins of purpose (as a young person):
+  1. The Spark: Find an interest
+  1. The Role Model: encounter a role model that demonstrates accomplishment on behalf of others
+  1. The Revelation: A problem is discovered in the world that needs solving
+  1. The Belief: That you can personally make a difference
