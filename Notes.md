@@ -483,3 +483,25 @@ p162
   1. The Role Model: encounter a role model that demonstrates accomplishment on behalf of others
   1. The Revelation: A problem is discovered in the world that needs solving
   1. The Belief: That you can personally make a difference
+
+p167
+
+- _job crafting_ how can you craft your own job so it's more attuned with your core values.
+- find inspiration in a purposeful role model
+- imagine yourself in 15 years – what will be important to you then?
+
+# chapter 9
+
+## Hope
+
+p169
+
+- grit rests on the hope that we can shape tomorrow to be better through our own efforts
+
+p172
+
+- suffering you can't control is what leads you to hopelessness. See electric shock experiment on caged dogs (sounds horrible) p171-172
+
+p173
+
+- "suffering without control reliably produces symptoms of clinical depression"
