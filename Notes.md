@@ -472,7 +472,7 @@ p159
 
 p160
 
-- people that have prosocial and personal goals intertwined are more successful
+- people that have pro-social and personal goals intertwined are more successful
 
 p162
 
@@ -505,3 +505,38 @@ p172
 p173
 
 - "suffering without control reliably produces symptoms of clinical depression"
+
+p176 - p178
+
+- hypothesis: teachers who have an optimistic view of adversity have more grit than their pessimistic counterparts
+- after a year long experiment looking assessing teachers optimism and happiness. They found that more optimistic teachers were both grittier and happier.
+- the data shows that teachers who keep trying to find new ways to reach and teach their students for the better have a better chance of finding them. when you stop searching, it likely means the teach has given up hope that they can be found.
+- Henry Ford, "whether you think you can, or think you can't – you're right"
+
+p178
+
+- why are some people pessimists and some optimists?
+- why do some people fail at confronting failure
+- _success only program_ - success praise given when a child had done well or not
+- _attribution retraining program_ - success praise was not given, and instead the child was told that they hadn't solved enough problems and that they should have tried harder
+- children in the _attribution retraining program_ learned to interpret failure as a cue that they should try harder rather than confirmation that they did not have what was required to succeed
+
+p180
+
+- what is a growth mindset?
+- do you view your intelligence can change? or, that it's a fixed asset that does not change?
+- a fixed mindset (believing talent is fixed), becomes a liability when you reach a challenge that you can't easily overcome. If you think your intelligence is fixed, then you will possibly fall into the trap that you can't go any further.
+- _people with a growth mindset are grittier than people with a fixed mindset._
+
+p181
+
+- Praising effort rather than outcomes or natural talent promotes a growth mindset.
+- the goal with Knowledge is Power Program is to instill values in children that life is more about challenging yourself and learning to do what you couldn't than reaching specific outcomes.
+
+| undermines growth mindset                         | promotes growth mindset                                                                    |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| "you're a natural, i love that"                   | "you're a learner, i love that"                                                            |
+| "well, at least you tried"                        | "that didn't work. let's talk about why and how to make it better"                         |
+| "you're so talented, great job"                   | "great job, what's one thing that could be improved on?"                                   |
+| "this is hard. don't feel bad if you can't do it" | "this is hard don't feel bad if you can't do it yet. you will learn if you keep trying"    |
+| "maybe this just isn't your strength"             | "i have high standards, i'm holding you to them because I know we can reach them together" |
