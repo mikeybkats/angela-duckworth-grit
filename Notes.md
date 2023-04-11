@@ -540,3 +540,53 @@ p181
 | "you're so talented, great job"                   | "great job, what's one thing that could be improved on?"                                   |
 | "this is hard. don't feel bad if you can't do it" | "this is hard don't feel bad if you can't do it yet. you will learn if you keep trying"    |
 | "maybe this just isn't your strength"             | "i have high standards, i'm holding you to them because I know we can reach them together" |
+
+p182
+
+- language may help demonstrate / cultivate hope. but actions are a stronger method for modeling growth mindset
+- James Baldwin, "children have never been good at listening to their elders, but they have never failed to imitate them"
+
+p184
+
+- the link between behavioral therapy and learned helplessness leads to resilience training
+- most people have an inner fixed mindset (even when we try to have a growth mindset)
+- it's easy to change what we say without changing our body language or actual opinions
+- What to do?
+  - watch for mismatches between words and actions.
+  - acknowledge when you slip up
+  - give a name to your inner fixed mindset characters:
+    - watch for a specific behavior, make note of it, give that personality a character name
+- adopting grit perspective requires getting better at things
+
+p192
+
+### growth mindset --> optimistic self-talk --> perseverance over adversity
+
+- what can I do to boost this one?
+- we maintain the ability to grow myelin throughout adulthood (the insulation that protects neurons).
+
+p195
+
+- everybody needs a champion to tell them to keep going. someone that inspires hope. a mentor too.
+
+# Chapter 10
+
+## Parenting for Grit
+
+p199 - 201
+
+- how do you nurture grit?
+- does it begin with enforcing high standards? or giving warm loving support?
+
+p202
+
+- Steve Young - decorated nfl quarterback had a tough guy father that never let him quit, even when his station on the Brigham Young University team seemed hopeless for him.
+- His confidence would falter, and his father helped pull him back together in a tough love kind of way. "I didn't raise a quitter"
+
+p204
+
+- "it was important to me to teach kids to finish what you begin," Grit Young. Steve Young's father
+- The Young's philosophy was strict yet supportive. Also notice how when Steve was in college and throughout his life and career he was always calling his father for advice. Clearly they are very close.
+- Steve Young was a timid child.
+- His father Grit Young approached this timidness with curiosity and listening. He asked questions and tried to help by learning more about what his son was going through.
+- It was never about what Steve's father needed. He was focused on the needs of his son.
