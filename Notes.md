@@ -590,3 +590,30 @@ p204
 - Steve Young was a timid child.
 - His father Grit Young approached this timidness with curiosity and listening. He asked questions and tried to help by learning more about what his son was going through.
 - It was never about what Steve's father needed. He was focused on the needs of his son.
+
+p211
+
+- since John Watson's "don't coddle them advice" lots has changed in parenting.
+- what can we learn about the stories from Steve Youngs Family and Francesca Martinez (whose parents were very free thinking open style parents)?
+  - "there's not either or trade-off between supportive parenting and demanding parenting"
+  - tough love - can be a combination of high standards, respect, affection and expectations. These are not exclusive attributes in any way.
+  - The Young family was tough, but also loving
+  - The Martinez family was loving, but also tough
+
+### four quadrants of parenting:
+
+| --          | unsupportive            | supportive           |
+| ----------- | ----------------------- | -------------------- |
+| undemanding | neglectful parenting    | permissive parenting |
+| demanding   | authoritarian parenting | wise parenting       |
+
+p212
+
+- there is so much research that expresses the benefits of supportive demanding parenting that scientists have moved onto harder topics within that category.
+-
+
+p214
+
+- wise parenting encourages children to emulate their parents
+- young children emulate adults out of the gate - Attack Doll Tinker Toys - Stanford Experiment p215
+- when we become old enough to reflect and begin to understand our parents decisions for us, we start to comply with their requests more readily.
