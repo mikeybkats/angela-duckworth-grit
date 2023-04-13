@@ -617,3 +617,20 @@ p214
 - wise parenting encourages children to emulate their parents
 - young children emulate adults out of the gate - Attack Doll Tinker Toys - Stanford Experiment p215
 - when we become old enough to reflect and begin to understand our parents decisions for us, we start to comply with their requests more readily.
+
+p216
+
+- being supportive and demanding alone is not enough to nurture grit
+- when parents model grit, their children become gritty too.
+
+p218
+
+- it doesn't take a parent to model grit. wise teachers can model the behavior too. Good leaders as well. Anyone that is in a position to push you just outside of the comfort zone.
+- wise parenting --> wise instructor --> wise teacher – the same behaviors are present: supportive, respectful, demanding
+- p219 wise feedback experiment revealed that teachers giving wise feedback - "this is a heavy criticism, but I'm giving it to you because i know you can reach this" – where twice as likely to revise and improve their work.
+-
+
+p222
+
+- nearly every paragon of grit has had someone in their life shape them or make an impact at one time or another that changed their perspective on what they are capable of.
+- Cody says, "just give it a try"
