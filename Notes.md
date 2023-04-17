@@ -486,8 +486,10 @@ p162
 
 p167
 
-- _job crafting_ how can you craft your own job so it's more attuned with your core values.
-- find inspiration in a purposeful role model
+- ### _job crafting_
+  - reflect on your own work to make more of a meaningful contribution to society
+  - how can you craft your own job so it's more attuned with your core values.
+  - find inspiration in a purposeful role model
 - imagine yourself in 15 years – what will be important to you then?
 
 # chapter 9
@@ -634,3 +636,21 @@ p222
 
 - nearly every paragon of grit has had someone in their life shape them or make an impact at one time or another that changed their perspective on what they are capable of.
 - Cody says, "just give it a try"
+
+# Chapter 11
+
+## playing the fields of grit
+
+p226
+
+- extra curricular activities should be practiced for more than one year in order to cultivate grit
+-
+
+p228
+
+- _personal qualities project_ - Educational Testing Services funded an experiment to see what qualities and activities in high school students led to better performance in life overall. The key factor was follow through. Students that practiced focused activity rather than sporadic activity were the clear winners.
+- whatever particular activity it was did not matter, the time with it did matter. follow-through is the key.
+
+p230
+
+- Bill Gates as the CEO of Microsoft used to test interviewing programmers with a code challenge that wasn't about skill or competency, but tediously working through a problem that required hours of troubleshooting. It was about seeing who could muscle through to the end.
