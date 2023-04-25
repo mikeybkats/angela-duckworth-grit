@@ -654,3 +654,20 @@ p228
 p230
 
 - Bill Gates as the CEO of Microsoft used to test interviewing programmers with a code challenge that wasn't about skill or competency, but tediously working through a problem that required hours of troubleshooting. It was about seeing who could muscle through to the end.
+
+- Grit is often fostered in middle and high school through extra curricular activities. Lower income schools have majorly cut back on these programs.
+- Students whose families are on food stamps score a full point lower than their more priveledged counterparts.
+- children need good childhoods. the extra curricular activities. the dance lessons, music, athletics, summer activities. ect. These things help them do better elsewhere. Dance lessons --> Algrebra
+
+p239
+
+- _Learned industriousness_ - training for harder tasks causes children to work harder when doing more mundane tasks.
+  - this kind of reminds me of how Dad forced us to do hard work all the time on weekends, and we complained, but he made us do it anyway. Nearly every Saturday (or at least it felt that way)
+- Often times it takes a teacher or a coach to hold kids to high standards that a parent won't. It's too easy for parents to praise their children, and often hard not to.
+
+_The hard thing rule (From the Duckworth family)_
+
+- you have to do the hard thing for at least x number of years
+- you have to practice the hard thing everyday
+- you can't quit the hard thing on a bad day
+- you have to pick the hard thing yourself
