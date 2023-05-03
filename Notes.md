@@ -654,7 +654,6 @@ p228
 p230
 
 - Bill Gates as the CEO of Microsoft used to test interviewing programmers with a code challenge that wasn't about skill or competency, but tediously working through a problem that required hours of troubleshooting. It was about seeing who could muscle through to the end.
-
 - Grit is often fostered in middle and high school through extra curricular activities. Lower income schools have majorly cut back on these programs.
 - Students whose families are on food stamps score a full point lower than their more priveledged counterparts.
 - children need good childhoods. the extra curricular activities. the dance lessons, music, athletics, summer activities. ect. These things help them do better elsewhere. Dance lessons --> Algrebra
@@ -671,3 +670,33 @@ _The hard thing rule (From the Duckworth family)_
 - you have to practice the hard thing everyday
 - you can't quit the hard thing on a bad day
 - you have to pick the hard thing yourself
+
+# Chapter 12
+
+## A culture of Grit
+
+p244
+
+- culture plays a pivotal role in individual grittiness
+- the culture we live in shapes almost every aspect of our being
+- "culture" is the shared values and norms in a group of people
+
+p246
+
+- "the real way to become a great swimmer is to join a great team," Dan Chambliss, sociologist
+- Grit can be had easily or more hardly:
+  - easy - use conformity to your advantage and join a group that's grittier
+  - hard - do it on your own
+
+p257
+
+- how to rescue core values from banality:
+  - Russian exile and Nobel Laureate poet Brodsky Anson had his students memorize "scores" of Russian poems.
+  - when they committed the verse to memory his students found that they "felt and lived and breathed Russia"
+- Exercise:
+  - Memorize a quote for each one of your core values
+
+p258
+
+- "The very same commands can be issued in a way that inspires allegiance or seeds resentment." John Schofield Superintendent of Westpoint, 1879
+- "The origin of great leadership begins with respect of the commander for his subordinates"
