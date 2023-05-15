@@ -700,3 +700,25 @@ p258
 
 - "The very same commands can be issued in a way that inspires allegiance or seeds resentment." John Schofield Superintendent of Westpoint, 1879
 - "The origin of great leadership begins with respect of the commander for his subordinates"
+
+p262
+
+- From Pete Carroll the head coach of the Seattle Seahawks, "The moment you've created that vision, you're on your way, but it's the diligence with which you stick to that allows you to get there."
+- "It's really the guy across from us that makes us who we are" Meaning that it's your opponent, or as Lou Zhu says the bad man who creates the job for the good man' What is a bad man, but a good man's job'? 
+As Pete Carroll illustrates, if you are focusing on who is winning and who is losing, you've missed the point.
+
+p265 
+
+- "No synonyms" - if you want to be clear, choose your words carefully. And do not falter.
+- "Compete" does not mean triumph over others. Compete means excellence. From the latin it literally means, "strive together."
+- 266 - "no whining. no complaining. no excuses. always protect the team. be early." the coaches chant this out together.
+
+p267
+
+- A Seahawks little brother is getting poor grades. The Seahawk buys him a video game to motivate him (he gets to open the game when he gets a good report card). But the student still has a hard time of getting good grades. What does he need? _Coaching_
+
+
+
+
+
+
